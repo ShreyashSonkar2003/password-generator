@@ -1,5 +1,5 @@
 # 🔐 Password Generator – by Shreyash Sonkar ⚡
-Welcome to my **Password Generator App** – a handy tool to create secure, customizable passwords in just one click!  
+Welcome to my **Password Generator App** - a handy tool to create secure, customizable passwords in just one click!  
 Built with ⚛️ React.js and 🎨 Tailwind CSS, this project combines simplicity, speed, and a sleek UI.  
 
 ---
